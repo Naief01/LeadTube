@@ -38,4 +38,4 @@ A user-friendly desktop application for finding YouTube channel leads based on k
 
 ## For Developers
 
-The executable file is located in the `/dist` directory. To build the application from the source, install the dependencies from `requirements.txt` and run the `pyinstaller` command found in the development history.
+To build the application from the source, install the dependencies from `requirements.txt` and run the `pyinstaller` command found in the development history.
