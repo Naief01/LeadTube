@@ -1,0 +1,5 @@
+google-api-python-client
+gspread
+python-dateutil
+PyQt6
+pyinstaller
